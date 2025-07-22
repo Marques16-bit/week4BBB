@@ -37,7 +37,7 @@ jobs:
         uses: android-actions/setup-android@v2
 
       - name: Setup Haxe
-        uses: krdlab/setup-haxe@v4.3.7
+        uses: krdlab/setup-haxe@v4.2.5
         with:
           haxe-version: 4.2.5
 
